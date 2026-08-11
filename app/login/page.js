@@ -56,14 +56,14 @@ export default function LoginPage() {
           <div className="sub">{t('Gunakan akun yang didaftarkan oleh System Administrator.')}</div>
 
           <div className="fld">
-            <label htmlFor="username">{t('Username')}</label>
+            <label htmlFor="username">{t('username')}</label>
             <input id="username" name="username" placeholder={t('nama.pengguna')}
                    autoComplete="username" autoCapitalize="none" spellCheck={false} required />
             <div className="hint">{t('Bisa juga memakai alamat email akun.')}</div>
           </div>
 
           <div className="fld">
-            <label htmlFor="password">{t('Password')}</label>
+            <label htmlFor="password">{t('password')}</label>
             <input id="password" name="password" type="password" placeholder="••••••••"
                    autoComplete="current-password" required />
             <div className="hint">
