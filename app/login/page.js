@@ -37,7 +37,7 @@ export default function LoginPage() {
           <div className="lg-bars"><i /><i /><i /><i /></div>
           <div>
             <div className="lg-wm">SIGMA</div>
-            <div className="lg-tag">Strategic Information for Governance, Monitoring &amp; Analytics ver.1.0 </div>
+            <div className="lg-tag">Strategic Information for Governance, Monitoring &amp; Analytics </div>
           </div>
         </div>
 
